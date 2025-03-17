@@ -1,43 +1,41 @@
-🍽️ Gourmet Delights - Responsive Restaurant Menu
-📌 Overview
-Gourmet Delights is a simple yet elegant restaurant menu webpage designed using HTML, CSS, and JavaScript. The webpage ensures a seamless experience across all screen sizes, making it accessible on desktops, tablets, and mobile devices.
+<h1>🍽️ Gourmet Delights - Responsive Restaurant Menu</h1><br>
+<h2>📌 Overview</h2><br>
+Gourmet Delights is a simple yet elegant restaurant menu webpage designed using HTML, CSS, and JavaScript. The webpage ensures a seamless experience across all screen sizes, making it accessible on desktops, tablets, and mobile devices.<br>
 
-🎯 Features
+<h2>🎯 Features</h2><br>
 ✔️ Fully responsive design for all devices
 ✔️ Interactive navigation with a mobile-friendly menu
 ✔️ Beautifully styled restaurant menu with images and pricing
 ✔️ Sections for menu, specials, about the restaurant, and contact details
 ✔️ Lightweight and easy to deploy
 
-📂 Project Structure
-bash
-Copy
-Edit
+<h2>📂 Project Structure</h2><br>
 /gourmet-delights  
 │── images/             # Contains food images  
 │── index.html          # Main HTML file  
 │── style.css           # Styling file for the webpage  
 │── script.js           # JavaScript file for interactive elements  
 │── README.md           # Project documentation  
-🏗️ Technologies Used
+
+<h2>🏗️ Technologies Used</h2><br>
 HTML5
 CSS3 (Flexbox, Grid, Media Queries)
 JavaScript (for navigation toggle)
-📍 Sections
-🥘 Menu
+<h2>📍 Sections</h2>
+<h3>🥘 Menu</h3>
 A selection of gourmet dishes including pasta, pizza, desserts, and more. Each dish includes an image, a brief description, and pricing.
 
-🍽️ Specials
+<h3>🍽️ Specials</h3>
 Daily specials featuring chef’s unique dishes that provide a delightful dining experience.
 
-🏨 About Us
+<h3>🏨 About Us</h3>
 Gourmet Delights is dedicated to offering high-quality meals made with the freshest ingredients. Our chefs are passionate about crafting dishes that satisfy every taste.
 
-📍 Contact
+<h3>📍 Contact</h3>
 📍 Address: Vizag, India
 📧 Email: contact@gourmetdelights.com
 
-🚀 How to Run the Project
+<h2>🚀 How to Run the Project</h2>
 Clone the repository:
 sh
 Copy
